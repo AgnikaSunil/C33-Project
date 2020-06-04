@@ -1,7 +1,2 @@
-# C33 Project
-
-
-OUTPUT LINK
-
-
-https://agnikasunil.github.io/C33-Project/
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
