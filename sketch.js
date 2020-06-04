@@ -67,7 +67,7 @@ function draw(){
    
     noStroke();
     textSize(35);
-    fill("#9999FF");
+    fill("#7F00FF");
     text("Score : " + score, 1000, 50);
 
     platform.display();
