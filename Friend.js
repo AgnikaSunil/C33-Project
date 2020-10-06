@@ -1,6 +1,6 @@
 class Friend extends BaseClass {
   constructor(x, y){
-    super(x,y,50,60);
+    super(x,y,50,50);
     this.image = loadImage("sprites/Friend.png");
     this.Visiblity = 255;
   }
